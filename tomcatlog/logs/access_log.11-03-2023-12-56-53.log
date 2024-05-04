@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /js/bootstrap.min.js.map HTTP/1.1" 404 2182
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /js/bootstrap.min.js.map HTTP/1.1" 404 2182
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /js/popper.min.js.map HTTP/1.1" 404 2182
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /js/popper.min.js.map HTTP/1.1" 404 2182
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /css/tail.select-light.map HTTP/1.1" 404 2182
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:12:56:53 +0530] "GET /css/bootstrap.min.css.map HTTP/1.1" 404 2182

@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "POST /validLogin HTTP/1.1" 200 40022
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/jquery-1.12.4.js HTTP/1.1" 200 293430
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/popper.js HTTP/1.1" 200 21233
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/tail.select-full.min.js HTTP/1.1" 200 30113
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/popper.min.js HTTP/1.1" 200 21257
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/jquery-ui.js HTTP/1.1" 200 520714
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/jquery.dataTables.min.js HTTP/1.1" 200 84647
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/bootstrap-multiselect.js HTTP/1.1" 200 68997
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/bootstrap3-typeahead.min.js HTTP/1.1" 200 10289
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/jquery-editable-select.min.js HTTP/1.1" 200 5871
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/JsonToCsv.js HTTP/1.1" 200 6181
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/header.js HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/dataTables.bootstrap4.min.js HTTP/1.1" 200 3278
+0:0:0:0:0:0:0:1 - - [11/Mar/2023:11:10:55 +0530] "GET /js/file-upload-with-preview.min.js HTTP/1.1" 200 41997

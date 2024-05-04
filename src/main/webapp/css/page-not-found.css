@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header{
+	background-color: #fff;
+	box-shadow: 0px 0px 8px rgba(0,0,0,0.2);
+}
+
+.cmspage .container{
+	width: 100%;
+	height: 80vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cmspage .container .error-404{
+	border: ;
+	width: 60%;
+	padding: 1rem;
+}
+
+.cmspage .container .error-404 .alert{
+	padding: 1rem;
+	font-size: 25px;
+}
